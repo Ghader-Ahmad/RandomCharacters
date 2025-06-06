@@ -1,0 +1,12 @@
+E:\Projects Outside 14\RandomCharacters\bin\Debug\RandomCharacters.exe.config
+E:\Projects Outside 14\RandomCharacters\bin\Debug\RandomCharacters.exe
+E:\Projects Outside 14\RandomCharacters\bin\Debug\RandomCharacters.pdb
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.csproj.AssemblyReference.cache
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.Properties.Resources.resources
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.csproj.GenerateResource.cache
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.csproj.CoreCompileInputs.cache
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.exe
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.pdb
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.Form2.resources
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.Form1.resources
+E:\Projects Outside 14\RandomCharacters\obj\Debug\RandomCharacters.exe.config
