@@ -5,3 +5,4 @@ This project generates characters based on the input the user enters.
 
 ##Project explanation Click on the video link
 Watch the project explanation on Google Drive -> (https://drive.google.com/file/d/1z_O7UwXx4uvfKhBekwmQaOJOwu_Kmpwo/view?usp=drivesdk)
+and this video -> (https://drive.google.com/file/d/1zgR7J1MlbWERxFIHMSOh_1LWkCsNoXgY/view?usp=drivesdk)
